@@ -1,0 +1,95 @@
+.food-display {
+  margin-top: 30px;
+}
+
+.food-display h2 {
+  font-size: max(2vw 24px);
+  font-weight: 600;
+}
+
+.food-display-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  margin-top: 30px;
+  row-gap: 50px;
+  column-gap: 50px;
+  
+}
+
+@media screen and (max-width: 1024px) {
+  .explore-menu-text {
+    max-width: 80%;
+  }
+
+  .explore-menu-list {
+    gap: 20px;
+  }
+
+  .explore-menu-list-item img {
+    width: 10vw;
+    min-width: 70px;
+  }
+
+  .explore-menu-list-item p {
+    font-size: max(1.6vw, 14px);
+  }
+
+  .food-display h2 {
+    font-size: max(2vw, 24px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .explore-menu-text {
+    max-width: 90%;
+  }
+
+  .explore-menu-list {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 15px;
+  }
+
+  .explore-menu-list-item img {
+    width: 12vw;
+    min-width: 60px;
+  }
+
+  .explore-menu-list-item p {
+    font-size: max(2vw, 12px);
+  }
+
+  .food-display-list {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    row-gap: 40px;
+    column-gap: 40px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .explore-menu-text {
+    max-width: 100%;
+    font-size: 14px;
+  }
+
+  .explore-menu-list {
+    gap: 10px;
+    justify-content: flex-start;
+  }
+
+  .explore-menu-list-item img {
+    width: 15vw;
+    min-width: 50px;
+  }
+
+  .explore-menu-list-item p {
+    font-size: max(2.5vw, 10px);
+  }
+
+  .food-display-list {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    row-gap: 30px;
+    column-gap: 30px;
+  }
+}
+
