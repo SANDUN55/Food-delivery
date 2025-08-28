@@ -1,9 +1,26 @@
-<p align="center">
-    <br><br><br><br><strong>Here’s how the interfaces look:</strong><br><br>
-  <img src="https://raw.githubusercontent.com/SANDUN55/FlimFlix/main/public/f.png" alt="Thumbnail" width="600"><br><br>
-  <img src="https://raw.githubusercontent.com/SANDUN55/FlimFlix/main/FilmFlix%20(1).png" alt="FilmFlix 1" width="600"><br><br>
-  <img src="https://raw.githubusercontent.com/SANDUN55/FlimFlix/main/FilmFlix%20(2).png" alt="FilmFlix 2" width="600"><br><br>
-  <img src="https://raw.githubusercontent.com/SANDUN55/FlimFlix/main/FilmFlix%20(4).png" alt="FilmFlix 4" width="600"><br><br>
-  <img src="https://raw.githubusercontent.com/SANDUN55/FlimFlix/main/FilmFlix%20(5).png" alt="FilmFlix 5" width="600">
+# 🍔 Food Delivery Frontend App
 
-</p>
+🚀 Excited to share my latest project: a **Food Delivery Frontend Application** built using **React.js** and **JavaScript**!
+
+This app is designed to provide a smooth and responsive user experience for ordering food online. It features:
+
+✨ **Intuitive UI/UX design** for easy navigation  
+📋 **Dynamic menu listing and filtering**  
+🛒 **Interactive order selection and cart management**  
+📱 **Fully responsive layout** for desktop and mobile  
+
+### 📸 Screenshots
+
+![Home Page](https://raw.githubusercontent.com/SANDUN55/FoodDeliveryApp/main/public/f.png)  
+![Menu Page](https://raw.githubusercontent.com/SANDUN55/FoodDeliveryApp/main/public/film-flix.png)  
+![Cart Page](https://raw.githubusercontent.com/SANDUN55/FoodDeliveryApp/main/public/FilmFlix.png)
+
+### 🛠️ Technologies Used
+- React.js  
+- JavaScript  
+- HTML / CSS  
+
+This project helped me strengthen my skills in React components, state management, and frontend design. Always eager to learn more and apply modern web development best practices! 🌟
+
+### 🔗 GitHub Repository
+[Check out the code on GitHub](https://github.com/SANDUN55/FoodDeliveryApp)
