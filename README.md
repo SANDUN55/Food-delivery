@@ -13,7 +13,6 @@ This app is designed to provide a smooth and responsive user experience for orde
 <img src="https://raw.githubusercontent.com/SANDUN55/Food-delivery/main/public/Food-Delivery.png" alt="Food Delivery App" width="600"><br><br>
 <img src="https://raw.githubusercontent.com/SANDUN55/Food-delivery/main/public/Food-Delivery1.png" alt="Food Delivery App" width="600"><br><br>
 <img src="https://raw.githubusercontent.com/SANDUN55/Food-delivery/main/public/Food-Delivery2.png" alt="Food Delivery App" width="600"><br><br>
-<img src="https://raw.githubusercontent.com/SANDUN55/Food-delivery/main/public/Food-Delivery3.png" alt="Food Delivery App" width="600"><br><br>
 
 
 ### 🛠️ Technologies Used
@@ -24,4 +23,4 @@ This app is designed to provide a smooth and responsive user experience for orde
 This project helped me strengthen my skills in React components, state management, and frontend design. Always eager to learn more and apply modern web development best practices! 🌟
 
 ### 🔗 GitHub Repository
-[Check out the code on GitHub](https://github.com/SANDUN55/FoodDeliveryApp)
+[Check out the code on GitHub](https://github.com/SANDUN55/Food-delivery)
