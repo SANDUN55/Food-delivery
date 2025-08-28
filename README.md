@@ -16,17 +16,6 @@ This app is designed to provide a smooth and responsive user experience for orde
 <img src="https://raw.githubusercontent.com/SANDUN55/Food-delivery/main/public/Food-Delivery3.png" alt="Food Delivery App" width="600"><br><br>
 
 
-
-![Home Page](https://raw.githubusercontent.com/SANDUN55/Food-delivery/public
-/f.png)  
-![Menu Page](https://raw.githubusercontent.com/SANDUN55/Food-delivery/public
-/Food-Delivery2.png)  
-![Cart Page](https://raw.githubusercontent.com/Food-delivery/public
-/Food-Delivery2.png)
-![Cart Page](https://raw.githubusercontent.com/Food-delivery/public
-/Food-Delivery.png)
-
-
 ### 🛠️ Technologies Used
 - React.js  
 - JavaScript  
